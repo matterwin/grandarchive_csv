@@ -1,0 +1,222 @@
+collector_number,name,slug,illustrator
+001,Spirit of Fire,spirit-of-fire,木叶
+002,Spirit of Water,spirit-of-water,木叶
+003,Spirit of Wind,spirit-of-wind,木叶
+004,"Jin, Fate Defiant",jin-fate-defiant,十尾
+005,"Jin, Zealous Maverick",jin-zealous-maverick,十尾
+006,"Jin, Undying Resolve",jin-undying-resolve,十尾
+007,"Kongming, Wayward Maven",kongming-wayward-maven,十尾
+008,"Kongming, Ascetic Vice",kongming-ascetic-vice,十尾
+009,"Kongming, Fel Eidolon",kongming-fel-eidolon,十尾
+010,Crescent Glaive,crescent-glaive,Dragonart
+011,Defender's Maul,defenders-maul,木叶
+012,Emergent Dagger,emergent-dagger,木叶
+013,Fan of Insight,fan-of-insight,Dragonart
+014,Ghostsight Glass,ghostsight-glass,木叶
+016,Intricate Longbow,intricate-longbow,Dragonart
+017,Mandate of Honor,mandate-of-honor,Primea Studio
+018,Orb of Regret,orb-of-regret,道漫
+019,Orb of Sealing,orb-of-sealing,木叶
+020,Primal Whip,primal-whip,木叶
+021,Tome of Sorcery,tome-of-sorcery,木叶
+023,Everflame Staff,everflame-staff,Dragonart
+024,Gem of Searing Flame,gem-of-searing-flame,Primea Studio
+026,Eventide Spear,eventide-spear,Dragonart
+027,Cloudstone Orb,cloudstone-orb,木叶
+029,Acolyte of Cultivation,acolyte-of-cultivation,木叶
+030,Adorned Stag,adorned-stag,木叶
+031,Backstep,backstep,Primea Studio
+032,Brash Defender,brash-defender,Primea Studio
+033,Bring Down the Mighty,bring-down-the-mighty,Pinakes
+034,Cavalier Rescue,cavalier-rescue,木叶
+035,Clean Cut,clean-cut,Primea Studio
+036,Combat Training,combat-training,Kumai
+037,Cure the Flesh,cure-the-flesh,Sineia
+038,Determined Spearman,determined-spearman,檸檬夾心餅
+039,Dungeon Guide,dungeon-guide,砂木烟
+040,Extraction Incision,extraction-incision,Primea Studio
+041,Feed Nourishment,feed-nourishment,Gyool
+042,Fractal of Insight,fractal-of-insight,道漫
+043,Fractal of Mana,fractal-of-mana,木叶
+044,Ghostsight Mare,ghostsight-mare,木叶
+045,"Guandu, Theater of War",guandu-theater-of-war,杭州新艺族
+046,Heavenly Guide,heavenly-guide,Dragonart
+047,Hire Mercenaries,hire-mercenaries,Kumai
+048,Honorable Vanguard,honorable-vanguard,砂木烟
+049,Idle Thoughts,idle-thoughts,道漫
+050,Imperial Assassin,imperial-assassin,木叶
+051,Indolent Leisure,indolent-leisure,代々
+052,Inner Court Schemer,inner-court-schemer,砂木烟
+053,Inspiring Call,inspiring-call,Primea Studio
+054,Invective Instruction,invective-instruction,Pinakes
+055,Keep of the Golden Sashes,keep-of-the-golden-sashes,北飞飞
+056,Kind Beastcaller,kind-beastcaller,Dragonart
+057,Lead with Force,lead-with-force,Pinakes
+058,Lost Wisdom,lost-wisdom,Hanh Chu
+059,Lumbering Steed,lumbering-steed,木叶
+060,Marksman Captain,marksman-captain,砂木烟
+061,Mnemonic Charm,mnemonic-charm,木叶
+063,Mystic Purifier,mystic-purifier,砂木烟
+064,Nascent Barrier,nascent-barrier,Sineia
+065,Nascent Blast,nascent-blast,Sineia
+066,Ordinary Horse,ordinary-horse,木叶
+067,"Paired Minds, Kindred Souls",paired-minds-kindred-souls,Hanh Chu
+068,Palace Guard,palace-guard,Dragonart
+069,Promising Recruit,promising-recruit,Dragonart
+070,Razor Broadhead,razor-broadhead,木叶
+071,Reckless Slash,reckless-slash,Primea Studio
+072,Regenerate,regenerate,Primea Studio
+073,Royal Bear,royal-bear,木叶
+074,Savage Arrow,savage-arrow,木叶
+075,Savage Attack,savage-attack,Primea Studio
+076,Seal the Past,seal-the-past,木叶
+077,Seasoned Archer,seasoned-archer,Dragonart
+078,Shining Marchador,shining-marchador,木叶
+079,Sidestep,sidestep,Primea Studio
+080,Skilled Plainsman,skilled-plainsman,Primea Studio
+081,Slice and Dice,slice-and-dice,Primea Studio
+082,Staggering Strike,staggering-strike,Primea Studio
+083,Stolid Vanguard,stolid-vanguard,砂木烟
+084,"Sun Quan, Sealbearer",sun-quan-sealbearer,Kumai
+085,Swerving Spring,swerving-spring,Primea Studio
+086,Trained Sharpshooter,trained-sharpshooter,Hanh Chu
+087,Tricky Chimps,tricky-chimps,木叶
+088,Unbroken Mustang,unbroken-mustang,木叶
+089,Veteran Soldier,veteran-soldier,Gyool
+090,War Marshal,war-marshal,Primea Studio
+091,Weaken Resistance,weaken-resistance,Primea Studio
+092,Weaponsmith,weaponsmith,Gyool
+093,Wisdom's Reprise,wisdoms-reprise,Pinakes
+094,Absolving Flames,absolving-flames,Dragonart
+095,Ash Filcher,ash-filcher,木叶
+096,Blazing Lunge,blazing-lunge,Primea studio
+097,Clumsy Apprentice,clumsy-apprentice,阿清Roro
+098,Creative Shock,creative-shock,Dragonart
+099,Fang of Dragon's Breath,fang-of-dragons-breath,Primea Studio
+100,Fiery Swing,fiery-swing,Primea Studio
+101,Fireball,fireball,Primea Studio
+102,Flame-Rune Swordsman,flame-rune-swordsman,Dragonart
+103,Flamewing Fowl,flamewing-fowl,木叶
+104,Flashfire Horse,flashfire-horse,木叶
+105,Fractal of Sparks,fractal-of-sparks,木叶
+106,Hasty Messenger,hasty-messenger,砂木烟
+107,Heated Vengeance,heated-vengeance,Pinakes
+108,"Hulao Gate, Sun's Ascent",hulao-gate-suns-ascent,杭州新艺族
+109,Ignite Fate,ignite-fate,十尾
+110,Indiscriminate Gyre,indiscriminate-gyre,檸檬夾心餅
+111,Lavasoul Tiger,lavasoul-tiger,木叶
+112,Molten Arrow,molten-arrow,木叶
+113,Oppressive Presence,oppressive-presence,Pinakes
+114,Planted Explosive,planted-explosive,Primea Studio
+115,Pupil of Sacred Flames,pupil-of-sacred-flames,代々
+116,Relic of Dancing Embers,relic-of-dancing-embers,木叶
+117,Ritai Guard,ritai-guard,Dragonart
+118,Scorchfire Assassin,scorchfire-assassin,Dragonart
+119,Scorching Strafe,scorching-strafe,木叶
+120,Set Ablaze,set-ablaze,阿清Roro
+121,Solar Pinnacle,solar-pinnacle,Dragonart
+122,Sword Saint of Everflame,sword-saint-of-everflame,D Lam
+123,Temper in Flames,temper-in-flames,Primea Studio
+124,Thunderclap,thunderclap,代々
+125,Wandering Glaivier,wandering-glaivier,Primea Studio
+126,"Xiao Qiao, Cinderkeeper",xiao-qiao-cinderkeeper,代々
+127,Aqueous Stallion,aqueous-stallion,木叶
+128,Burst Asunder,burst-asunder,坊橋夜泊
+129,"Cao Cao, Aspirant of Chaos",cao-cao-aspirant-of-chaos,坊橋夜泊
+130,Cone of Frost,cone-of-frost,砂木烟
+131,Deep Sea Fractal,deep-sea-fractal,木叶
+132,Drifting Rogue,drifting-rogue,Dragonart
+133,Fractal of Polar Depths,fractal-of-polar-depths,Dragonart
+134,Frozen Quill,frozen-quill,Dragonart
+135,Glacial Evocation,glacial-evocation,砂木烟
+136,Halocline Scout,halocline-scout,木叶
+137,Hoarfrost Spine,hoarfrost-spine,木叶
+138,Hydroguard Retainer,hydroguard-retainer,Dragonart
+139,Intervention,intervention,Primea Studio
+140,Inundating Clash,inundating-clash,Primea Studio
+141,"Jueying, Shadowmare",jueying-shadowmare,木叶
+142,Nanyue Portsman,nanyue-portsman,Hanh Chu
+143,Perfect Repulsion,perfect-repulsion,Primea Studio
+144,Protective Fractal,protective-fractal,木叶
+145,Rainweaver Mage,rainweaver-mage,代々
+146,Refracting Missile,refracting-missile,Dragonart
+147,Relic of Sunken Past,relic-of-sunken-past,木叶
+148,Rippleback Terrapin,rippleback-terrapin,木叶
+149,Rising Tides,rising-tides,檸檬夾心餅
+150,Seafletched Serpent,seafletched-serpent,木叶
+151,Sheath of Faceted Lapis,sheath-of-faceted-lapis,Primea Studio
+152,Slipstream Vault,slipstream-vault,Primea Studio
+153,Strategem of Myriad Ice,strategem-of-myriad-ice,Dragonart
+154,Sudden Deluge,sudden-deluge,Primea Studio
+155,Sudden Snow,sudden-snow,Pinakes
+156,Sword Saint of Eventide,sword-saint-of-eventide,Primea Studio
+157,Tidal Lock,tidal-lock,Primea Studio
+158,Tidal Tirade,tidal-tirade,Primea Studio
+159,Tidestone Bovine,tidestone-bovine,木叶
+160,Torpid Fractal,torpid-fractal,木叶
+161,Tsunami of Nanyue,tsunami-of-nanyue,Dragonart
+162,Water Barrier,water-barrier,Pinakes
+163,Wuji of Lingering Fate,wuji-of-lingering-fate,Primea Studio
+164,"Xia Hou Dun, Gloryseeker",xia-hou-dun-gloryseeker,十尾
+165,Adept Swordmaster,adept-swordmaster,Dragonart
+166,Apprentice Aeromancer,apprentice-aeromancer,木叶
+167,Arrow Trap,arrow-trap,Primea Studio
+168,Axis Gale Scholar,axis-gale-scholar,木叶
+169,Bagua of Cardinal Fate,bagua-of-cardinal-fate,Dragonart
+170,Beseeching Flourish,beseeching-flourish,Primea Studio
+171,Brisk Windtrotter,brisk-windtrotter,木叶
+172,Cyclical Breeze,cyclical-breeze,Dragonart
+173,"Dilu, Auspicious Charger",dilu-auspicious-charger,木叶
+174,Disorienting Winds,disorienting-winds,Pinakes
+175,Fairy Whispers,fairy-whispers,Primea Studio
+176,Favorable Winds,favorable-winds,Dragonart
+177,Fraternal Garrison,fraternal-garrison,木叶
+178,Galewhisper Rogue,galewhisper-rogue,Dragonart
+179,"Guan Yu, Prime Exemplar",guan-yu-prime-exemplar,Faicha
+180,Infusion of Crescent Jade,infusion-of-crescent-jade,Primea Studio
+181,Landscape Corsair,landscape-corsair,Dragonart
+182,"Liu Bei, Oathkeeper",liu-bei-oathkeeper,Faicha
+183,Mark of Fervor,mark-of-fervor,木叶
+184,Materialize Polearm,materialize-polearm,Primea Studio
+185,Oath of the Sakura,oath-of-the-sakura,Faicha
+186,Phalanx Captain,phalanx-captain,木叶
+187,Poised Rearguard,poised-rearguard,木叶
+188,Razorgale Calling,razorgale-calling,木叶
+189,Shu Frontliner,shu-frontliner,坊橋夜泊
+190,Soothing Disillusion,soothing-disillusion,Gyool
+191,Swift Recruit,swift-recruit,Sineia
+192,Tailwind's Blessing,tailwinds-blessing,Dragonart
+193,Tempus Stalker,tempus-stalker,木叶
+195,Unrelenting Warden,unrelenting-warden,Dragonart
+196,Vengeful Gust,vengeful-gust,Pinakes
+197,Wildgrowth Feline,wildgrowth-feline,木叶
+198,Wind Cutter,wind-cutter,檸檬夾心餅
+199,Yunzhou Cavalry,yunzhou-cavalry,木叶
+200,Zephyr,zephyr,Pinakes
+201,"Zhang Fei, Spirited Steel",zhang-fei-spirited-steel,Faicha
+202,Bloodbond Bladesworn,bloodbond-bladesworn,木叶
+203,Conduit of Bloodfire,conduit-of-bloodfire,木叶
+204,Crimson Prescience,crimson-prescience,Hanh Chu
+205,Desperate Cavalier,desperate-cavalier,木叶
+206,Exia Sight,exia-sight,木叶
+207,Fervent Lancer,fervent-lancer,木叶
+208,Hemorrhaging Rend,hemorrhaging-rend,木叶
+209,Ingress of Sanguine Ire,ingress-of-sanguine-ire,木叶
+210,Mend Flesh,mend-flesh,木叶
+211,Proof of Life,proof-of-life,木叶
+212,Relentless Outburst,relentless-outburst,木叶
+213,Seize Fate,seize-fate,木叶
+215,Bathe in Light,bathe-in-light,Gyool
+216,Glow Forth,glow-forth,Gyool
+217,Illuminating Charge,illuminating-charge,木叶
+218,Channel Manifold Desire,channel-manifold-desire,Dragonart
+219,Conduit of Seasons,conduit-of-seasons,Dragonart
+221,Invigoration,invigoration,木叶
+222,Leeching Bolt,leeching-bolt,Dragonart
+223,Nature's Appeal,natures-appeal,木叶
+224,Planar Abyss,planar-abyss,Dragonart
+225,Ruinous Pillars of Qidao,ruinous-pillars-of-qidao,Dragonart
+226,Sempiternal Sage,sempiternal-sage,Dragonart
+227,Spellshield: Tera,spellshield-tera,Dragonart
+228,Tera Sight,tera-sight,Dragonart
+229,"Yudi, Gossamer Jade",yudi-gossamer-jade,Pinakes
