@@ -1,11 +1,11 @@
 import requests
 import csv
 
+url = 'https://api.gatcg.com/cards/search'
 page = 1
 prefix = "AMB"
 
-url = 'https://api.gatcg.com/cards/search'
-params = {'prefix': prefix}
+params = {}
 
 data = []
 
@@ -21,27 +21,39 @@ while True:
         break
     
     page_data = res.json()
-    data.extend(page_data.get('data', []))
+
+    for item in page_data.get('data', []):
+        for edition in item.get('result_editions', []):
+            filtered_item = {
+                'set': edition.get('set', {}).get('name', 'N/A'),
+                'collector_number': edition.get('collector_number', 'N/A'),
+                'name': item.get('name'),
+                'slug': item.get('slug'),
+                'illustrator': edition.get('illustrator', 'N/A')
+            }
+            data.append(filtered_item)
+
+        for edition in item.get('editions', []):
+            filtered_item = {
+                'set': edition.get('set', {}).get('name', 'N/A'),
+                'collector_number': edition.get('collector_number', 'N/A'),
+                'name': item.get('name'),
+                'slug': item.get('slug'),
+                'illustrator': edition.get('illustrator', 'N/A')
+            }
+            data.append(filtered_item)
 
     if not page_data.get('has_more', False):
         break
 
+    print("Page", params.get('page'))
+
     page += 1
 
 with open('cards_data.csv', mode='w', newline='', encoding='utf-8') as file:
-    fieldnames = ['collector_number', 'name', 'slug', 'illustrator']    
+    fieldnames = ['set', 'collector_number', 'name', 'slug', 'illustrator']    
     writer = csv.DictWriter(file, fieldnames=fieldnames)
     writer.writeheader()
-
-    for item in data:
-        illustrator = item.get('result_editions', [{}])[0].get('illustrator', 'N/A')
-        collector_number = item.get('result_editions', [{}])[0].get('collector_number', 'N/A')
-        
-        writer.writerow({
-            'collector_number': collector_number, 
-            'name': item.get('name'), 
-            'slug': item.get('slug'), 
-            'illustrator': illustrator
-        })
+    writer.writerows(data)
         
 print("Output: ", file.name)
