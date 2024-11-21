@@ -27,8 +27,9 @@ while True:
             filtered_item = {
                 'set': edition.get('set', {}).get('name', 'N/A'),
                 'collector_number': edition.get('collector_number', 'N/A'),
-                'name': item.get('name'),
-                'slug': item.get('slug'),
+                'name': edition.get('name'),
+                'slug': edition.get('slug'),
+                'rarity': edition.get('rarity'),
                 'illustrator': edition.get('illustrator', 'N/A')
             }
             data.append(filtered_item)
@@ -37,8 +38,9 @@ while True:
             filtered_item = {
                 'set': edition.get('set', {}).get('name', 'N/A'),
                 'collector_number': edition.get('collector_number', 'N/A'),
-                'name': item.get('name'),
-                'slug': item.get('slug'),
+                'name': edition.get('name'),
+                'slug': edition.get('slug'),
+                'rarity': edition.get('rarity'),
                 'illustrator': edition.get('illustrator', 'N/A')
             }
             data.append(filtered_item)
@@ -51,7 +53,7 @@ while True:
     page += 1
 
 with open('cards_data.csv', mode='w', newline='', encoding='utf-8') as file:
-    fieldnames = ['set', 'collector_number', 'name', 'slug', 'illustrator']    
+    fieldnames = ['set', 'collector_number', 'name', 'slug', 'rarity', 'illustrator']    
     writer = csv.DictWriter(file, fieldnames=fieldnames)
     writer.writeheader()
     writer.writerows(data)
